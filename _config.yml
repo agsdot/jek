@@ -10,7 +10,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-  - path: "jek/"  # Adjust this path if your theme is located elsewhere
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+# Custom configuration for serving CSS and JS from a different directory
+collections_dir: jek
