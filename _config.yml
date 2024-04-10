@@ -10,7 +10,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-  path: "jek/"  # Adjust this path if your theme is located elsewhere
+  - path: "jek/"  # Adjust this path if your theme is located elsewhere
 plugins:
   - jekyll-feed
   - jekyll-include-cache
