@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: /
+#baseurl: /
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: mmistakes/minimal-mistakes
 #https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin
@@ -26,38 +26,38 @@ plugins:
 author:
   name   : "Jane Stanford"
   avatar : "/assets/images/janestanford.jpg"
-  bio    : "Short one or two sentence bio description text here"
+  bio    : "I and Leland we build university systems for the ages"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "/"
+      url: "https://quake06.stanford.edu/centennial/gallery/people/stanfords/index.html"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/janelstanford"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Stanford"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/school/stanford-university/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/stanford"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/janelstanford"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Stanford"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/school/stanford-university/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/stanford"
 
 defaults:
   # _posts
